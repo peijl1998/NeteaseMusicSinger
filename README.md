@@ -13,6 +13,11 @@
 
 # Example
 
-![img](http://oy0lnxej5.bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20180325225430.png)
 
 ![img](http://oy0lnxej5.bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20180325225424.png)
+
+
+也可以修改词云形状
+
+![img](http://oy0lnxej5.bkt.clouddn.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20180325225430.png)
+
